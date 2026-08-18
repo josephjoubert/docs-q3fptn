@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-az3c6p.koi888.sbs/sitemap.xml
